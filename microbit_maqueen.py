@@ -1,4 +1,4 @@
-from microbit_maqueen import *
+from microbit import *
 from micropython import const
 import music
 
