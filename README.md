@@ -1,1 +1,2 @@
-# mind_controlled_robot
+Mind-Controlled Robot Tutorial 
+https://openbci.com/community/mind-controlled-robot-openbci-mindaffectbci-maqueen-v2/
